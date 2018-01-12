@@ -37,3 +37,7 @@ p {
   font-weight: 700;
   line-height: 40px;
 }
+.img-center img{
+	display: block;
+	margin: auto;
+}
