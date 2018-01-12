@@ -9,7 +9,7 @@ img{
 div {
 	background-color: #BFCDFF;
 	padding: 100px;
-	border: 10px solid #ea3838;
+	border: 5px solid #ea3838;
 }
 p {
 	font-size: 36px;
@@ -30,7 +30,7 @@ p {
 	border-color: solid #ea3838
 }
 .yellowborder {
-	border: 5px solid #f1de39;
+	border: 2.5px solid #f1de39;
 }
 .extra-cool-text {
   color: #ea3838;
