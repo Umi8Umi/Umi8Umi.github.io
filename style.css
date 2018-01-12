@@ -8,7 +8,7 @@ img{
 }
 div {
 	background-color: #BFCDFF;
-	padding: 100px;
+	padding: 50px;
 	border: 5px solid #ea3838;
 }
 p {
@@ -26,7 +26,7 @@ p {
 	font-family: Yu Gothic Light;
 }
 .container {
-	margin: 50px;
+	margin: 25px;
 	border-color: solid #ea3838
 }
 .yellowborder {
