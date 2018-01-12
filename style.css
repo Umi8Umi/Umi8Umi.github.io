@@ -1,0 +1,39 @@
+/*this is a comment in CSS*/
+h1 {
+	font-size: 72px;
+	text-align: center;
+}
+img{
+	align-items: center;
+}
+div {
+	background-color: #BFCDFF;
+	padding: 100px;
+	border: 10px solid #ea3838;
+}
+p {
+	font-size: 36px;
+	font-family: Yu Gothic Light;
+}
+.h1 {
+	color: #ea3838;
+	font-family: Yu Gothic Light;
+}
+.japanese {
+	color: #f1de39;
+	font-size: 48px;
+	text-align: center;
+	font-family: Yu Gothic Light;
+}
+.container {
+	margin: 50px;
+	border-color: solid #ea3838
+}
+.yellowborder {
+	border: 5px solid #f1de39;
+}
+.extra-cool-text {
+  color: #ea3838;
+  font-weight: 700;
+  line-height: 40px;
+}
