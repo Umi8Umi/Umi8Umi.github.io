@@ -43,4 +43,5 @@ p {
 .img-center img{
 	display: block;
 	margin: auto;
+	border: 5px solid #BFCDFF;
 }
