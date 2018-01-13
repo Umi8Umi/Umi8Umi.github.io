@@ -12,7 +12,7 @@ div {
 	border: 10px solid #ea3838;
 }
 p {
-	font-size: 36px;
+	font-size: 16px;
 	font-family: Yu Gothic Light;
 }
 .h1 {
@@ -24,6 +24,9 @@ p {
 	font-size: 48px;
 	text-align: center;
 	font-family: Yu Gothic Light;
+}
+.yummy {
+	font-size: 36px;
 }
 .container {
 	margin: 5px;
