@@ -2,6 +2,9 @@
 h1 {
 	font-size: 72px;
 	text-align: center;
+	color: #ea3838;
+	font-family: Yu Gothic Light;
+	margin: 0;
 }
 img{
 	align-items: center;
@@ -15,15 +18,12 @@ p {
 	font-size: 16px;
 	font-family: Yu Gothic Light;
 }
-.h1 {
-	color: #ea3838;
-	font-family: Yu Gothic Light;
-}
 .japanese {
 	color: #f1de39;
 	font-size: 48px;
 	text-align: center;
 	font-family: Yu Gothic Light;
+	margin: 0;
 }
 .yummy {
 	font-size: 36px;
@@ -44,4 +44,8 @@ p {
 	display: block;
 	margin: auto;
 	border: 5px solid #BFCDFF;
+}
+.link {
+	font-family: Yu Gothic Light;
+	font-size: 11px
 }
