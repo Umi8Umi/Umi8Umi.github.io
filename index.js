@@ -15,7 +15,7 @@ $(document).ready(function() {
 	$('h2').on('click', function() {
 	  $(this).toggleClass('extra-cool-text');
 	});
-	$('p').on('mouseover', function() {
+	$('yummy').on('mouseover', function() {
 	  $(this).animate({ "font-size" : "40px" }, 400)
 	  .animate({ "letter-spacing" : "10px" }, 1000);
 	});
