@@ -20,6 +20,15 @@ body{
 	padding-bottom: 25px;
 	min-height: 100%;
 }
+p{
+	margin: 0;
+	border: 0;
+}
+
+#SarahUmiLeventhal{
+	padding: 15px;
+	width: 600px;
+}
 
 .biggestBox {
 	/*margin-top: 5px;
@@ -86,7 +95,7 @@ body{
 }
 
 #sunflower_cutie{
-	height: 150px;
+	height: 170px;
 	position: fixed;
 	bottom: 25px;
 	right: 25px;
@@ -294,8 +303,8 @@ a:hover{
 	padding-top: 0;
 }
 
-#tab{
-	position: absolute;
+.tab{
+	/*position: absolute;*/
  	/*margin-left: 15px;*/
  	padding-left: 50px;
  }
