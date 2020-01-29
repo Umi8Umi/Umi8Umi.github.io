@@ -25,6 +25,23 @@ p{
 	border: 0;
 }
 
+a{
+	display: inline-block;
+	color: black;
+	text-decoration: none;
+	/*background-color: #043256;*/
+	padding: 8px;
+	border-radius: 5px;
+	border: 2px groove /*#f7b521*/black;
+}
+
+a:hover{
+	color: white;
+	background-color: black;
+	cursor: pointer;
+}
+
+
 #SarahUmiLeventhal{
 	padding: 15px;
 	width: 600px;
@@ -141,26 +158,11 @@ nav{
 	margin: 5px;
 }
 
-a{
-	color: black;
-	text-decoration: none;
-	/*background-color: #043256;*/
-	padding: 8px;
-	border-radius: 5px;
-	border: 2px groove /*#f7b521*/black;
-}
-
 .menu li:hover{
 	color: black;
 	font-weight: bold;
 	background-image: url(sunflowerSmallRec.jpg);
 	background-size: cover;
-	cursor: pointer;
-}
-
-a:hover{
-	color: white;
-	background-color: black;
 	cursor: pointer;
 }
 
