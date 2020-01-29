@@ -6,7 +6,9 @@ html{
 
 body{
 	/*background-color: #f9ff8f;*/
-	background-color: #92d0ff;
+	/*d2e7ff - light purple color*/
+	/*92d0ff - old color blue*/
+	background-color: #d2e7ff;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	color: black;
 	margin: 0px;
@@ -25,7 +27,7 @@ body{
 	margin-right: 25px;
 	margin-bottom: 25px;*/
 	margin: 0;
-	/*background-color: #92d0ff;*/
+	/*background-color: #d2e7ff;*/
 	border-radius: 5px;
 	z-index: -500;
 	height: 100%;
@@ -115,7 +117,7 @@ nav{
 	margin: 0;
 	padding: 0;
 	line-height: 35px;
-	color: #92d0ff;
+	color: #d2e7ff;
 	font-weight: bold;
 	text-decoration: none;
 	background-color: black;
@@ -155,7 +157,7 @@ a:hover{
 
 .dropbtn{
 	background-color: black;
-	color: #92d0ff;
+	color: #d2e7ff;
 	padding: 10px;
 	border-radius: 5px;
 	border: 2px double black;
@@ -174,7 +176,7 @@ a:hover{
 	position: absolute;
 	/*background-color: #fffe9f;*/
 	background-image: url(sunflowerSmallRec.jpg);
-	color: #92d0ff;
+	color: #d2e7ff;
 	font-weight: bold;
 	min-width: 100px;
 	box-shadow: 0;
@@ -224,11 +226,6 @@ a:hover{
 	border: none;
 	padding: 5px 10px;
 	background-color: transparent;
-}
-
-.profileLinks a:hover{
-	color: white;
-	background-color: #e8c621;
 }
 
 .profileLinks img{
