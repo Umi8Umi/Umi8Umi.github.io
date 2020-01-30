@@ -54,6 +54,7 @@ a:hover{
 	z-index: -500;
 	height: 100%;
 	min-height: 500px;
+	max-width: 615px;
 }
 
 
