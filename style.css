@@ -89,6 +89,18 @@ a:hover{
 	width: 200px;
 	padding-left: 50px;
 }
+#skills{
+	width: 100px;
+	padding-left: 50px;
+}
+#relevant{
+	width: 350px;
+	padding-left: 50px;
+}
+#StudentOrgs{
+	width: 375px;
+	padding-left: 50px;
+}
 
 .speech_bubble{
 	background-color: white;
