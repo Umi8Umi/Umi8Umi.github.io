@@ -73,9 +73,18 @@ a:hover{
  	border: none;
  	vertical-align: text-top;
  }
-
-
  .music:hover{
+ 	background-color: #d2e7ff;
+ }
+
+ .GPGH{
+ 	padding: 0;
+ 	display: inline-block;
+ 	height: 50px;
+ 	border: none;
+ 	vertical-align: text-top;
+ }
+ .GPGH:hover{
  	background-color: #d2e7ff;
  }
 
@@ -104,6 +113,27 @@ a:hover{
 #contact{
 	width: 175px;
 	padding-left: 50px;
+}
+#home{
+	padding-left: 15px;
+	padding-top: 15px;
+}
+#projects{
+	width: 350px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 35px;
+}
+#voiceNP{
+	width: 175px;
+	padding-left: 100px;
+}
+#VNP{
+	max-width: 175px;
+}
+#GH{
+	padding-top: 8px;
 }
 
 .speech_bubble{
