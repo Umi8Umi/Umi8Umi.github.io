@@ -101,6 +101,10 @@ a:hover{
 	width: 375px;
 	padding-left: 50px;
 }
+#contact{
+	width: 175px;
+	padding-left: 50px;
+}
 
 .speech_bubble{
 	background-color: white;
