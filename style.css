@@ -74,8 +74,12 @@ a:hover{
  	border: none;
  	vertical-align: text-top;
  }
- .music:hover{
- 	background-color: #d2e7ff;
+/* .music:hover{
+ 	background-color: black;
+ }*/
+ #music:hover{
+ 	-webkit-filter: invert(1);
+ 	filter: invert(1);
  }
 
  .GPGH{
